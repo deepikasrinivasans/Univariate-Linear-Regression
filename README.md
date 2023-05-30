@@ -35,6 +35,7 @@ print(Y_pred)
 plt.scatter(X,Y)
 plt.plot(X,Y_pred,color='orange')
 plt.show()
+
 ```
 ## Output
 </br>![linear regression ](https://github.com/deepikasrinivasans/Univariate-Linear-Regression/assets/119393935/e3fc6d4c-bd73-4efb-afa8-f888a19fe926)
